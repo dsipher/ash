@@ -1,0 +1,8 @@
+This is Kenneth Almquist's shell.
+
+The dist/ directory holds the original shar archives part0[1-8], as
+posted to comp.os.unix on May 30 1989. These have been extracted to
+src/. dist/patch01 is another shar with his patch to the job control
+code and a config script; it has been neither extracted nor applied.
+
+- cey 12/9/21
